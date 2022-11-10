@@ -2,7 +2,7 @@
 * {
   padding: 0;
   margin: 0;
-  box-sizing: border-box;
+  /*box-sizing: border-box;*/
 }
 html {
   scroll-behavior: smooth;
@@ -13,13 +13,14 @@ body {
 }
 .background {
   background: #f6f9fc;
-  padding: 50px 0;
+  /*padding: 50px 0;*/
 }
 .container {
   max-width: 90%;
   margin: auto;
 }
 .d_flex {
+  padding-top: 20px;
   /*display: flex;*/
   /*justify-content: space-between;*/
 }
