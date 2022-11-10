@@ -3,7 +3,7 @@ const Sdata = {
     {
       id: 1,
       cover: "./images/shops/Scandal jean paul gaultier.jpg",
-      name: "SCANDAL JEAN PAUL GAULTIER 100ml",
+      name: "SCANDAL JEAN PAUL GAULTIER 100ml Apă de Toaleta  Bărbați, 100 ml",
       price: "250",
       discount: "50",
     },
