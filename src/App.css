@@ -44,7 +44,7 @@ body {
 }
 @media only screen and (max-width: 670px) {
   .search.active{
-    padding: 60px 0;
+    padding: 10px 0 40px 0;
   }
   .search_position {
     position: relative;
