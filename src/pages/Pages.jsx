@@ -8,19 +8,19 @@ import Shop from "../components/shops/Shop"
 import Annocument from "../components/annocument/Annocument"
 import Wrapper from "../components/wrapper/Wrapper"
 
-const Pages = ({ productItems, addToCart, CartItem, shopItems }) => {
-  return (
-    <>
-      {/*<Home CartItem={CartItem} />*/}
-      {/*<FlashDeals productItems={productItems} addToCart={addToCart} />*/}
-      {/*<TopCate />*/}
-      {/*<NewArrivals />*/}
-      {/*<Discount />*/}
-      <Shop shopItems={shopItems} addToCart={addToCart} />
-      {/*<Annocument />*/}
-      {/*<Wrapper />*/}
-    </>
-  )
+const Pages = ({productItems, addToCart, CartItem, shopItems, getSearchValue}) => {
+    return (
+        <>
+            {/*<Home CartItem={CartItem} />*/}
+            {/*<FlashDeals productItems={productItems} addToCart={addToCart} />*/}
+            {/*<TopCate />*/}
+            {/*<NewArrivals />*/}
+            {/*<Discount />*/}
+            <Shop shopItems={shopItems} addToCart={addToCart} getSearchValue={getSearchValue}/>
+            {/*<Annocument />*/}
+            {/*<Wrapper />*/}
+        </>
+    )
 }
 
 export default Pages
