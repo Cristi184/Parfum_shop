@@ -269,13 +269,6 @@ const Sdata = {
       discount: "50",
     },
     {
-      id: 38,
-      cover: "./images/shops/Tom ford ombre leather.jpg",
-      name: "TOM FORD OMBRE LEATHER\n,Apă de parfum pentru bărbați 100 ml",
-      price: "350",
-      discount: "50",
-    },
-    {
       id: 39,
       cover: "./images/shops/Tom ford ombre leather.jpg",
       name: "TOM FORD OMBRÉ LEATHER\n,Apă de parfum pentru bărbați 100 ml",
@@ -352,13 +345,7 @@ const Sdata = {
       price: "500",
       discount: "50",
     },
-    {
-      id: 50,
-      cover: "./images/shops/Paco Rabanne Phantom.jpg",
-      name: "Paco Rabanne Phantom\n,Apă de parfum pentru bărbați 100 ml",
-      price: "275",
-      discount: "50",
-    },
+
     {
       id: 51,
       cover: "./images/shops/Paco Rabanne Phantom.jpg",
@@ -384,7 +371,7 @@ const Sdata = {
       id: 54,
       cover: "./images/shops/Versace Eros.webp",
       name: "Versace Eros\n,Apă de parfum pentru bărbați 100 ml",
-      price: "250",
+      price: "260",
       discount: "50",
     },
     {
@@ -392,13 +379,6 @@ const Sdata = {
       cover: "./images/shops/Armani Aqua di Gio Profondo.webp",
       name: "Armani Aqua di Gio Profondo\n,Apă de parfum pentru bărbați 75ml",
       price: "240",
-      discount: "50",
-    },
-    {
-      id: 56,
-      cover: "./images/shops/Chanel Allure Homme Sport.webp",
-      name: "Chanel Allure Homme Sport\n,Apă de parfum pentru bărbați 100 ml",
-      price: "250",
       discount: "50",
     },
     {
